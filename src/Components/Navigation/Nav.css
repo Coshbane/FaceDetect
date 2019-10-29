@@ -1,0 +1,12 @@
+.sgn-out {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: underline black;
+    color: white;
+}
+
+.sgn-out:hover {
+        cursor: pointer;
+        color: black;
+        text-decoration: underline white;
+    }
